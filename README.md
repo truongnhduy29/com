@@ -21,7 +21,7 @@
 
 ```
 
-### hi
+### hi.
 
 This is the latest version of my site. It is built with [Astro](https://astro.build/), and the content is authored in [Obsidian](https://obsidian.md/) and stored in a private repo.
 
